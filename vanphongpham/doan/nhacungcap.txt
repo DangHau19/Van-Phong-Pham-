@@ -1,0 +1,15 @@
+NCC01;Cong ty Giay But;TP.HCM;0987654321;Dung cu viet
+NCC02;VPP Minh Khai;Ha Noi;0987654321;Giay va so
+NCC03;TM&DV Hong Lien;Da Nang;0123456789;Bia va ho so
+NCC04;Cua hang Dong Goi;TP.HCM;0123456897;Vat tu dong goi
+NCC05;Noi that Cong so P;Dong Nai;0746837563;Phu kien ban lam viec
+NCC06;Hoa cu A Dong;Hue;085673754643;Dung cu ve
+NCC07;VPP Si Le;Binh Duong;098562356;Dung cu viet
+NCC08;Cong ty Phan phoi X;Hai Phong;0947257854;Bia va ho so
+NCC09;Xuong Giay Minh;Long An;0472558793;Giay va so
+NCC10;Thiet bi VPP Mien T;Can Tho;04875967058;Phu kien ban lam viec
+NCC11;Cong ty Bang Dinh;Vinh Phuc;0856748309;Vat tu dong goi
+NCC12;VPP Gia Si;Nghe An;08573957432;Dung cu viet
+NCC13;Nha sach Van Lang;Tay Ninh;098567483;Giay va so
+NCC14;TMDV Chieu Sang;TP.HCM;03283743453;Den & thiet bi van phong
+NCC15;VPP Toan Cau;Hai Duong;087463833;Phu kien ban lam viec
